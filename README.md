@@ -49,8 +49,8 @@ Tuned **Random Forest Classifier** (`n_estimators=1000`, `max_features=8`, `min_
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
-cd your-repo-name
+git clone https://github.com/Priyanka200702/travel-package-purchase-predictor.git
+cd travel-package-purchase-predictor
 ```
 
 ### 2. Install Dependencies
